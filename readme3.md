@@ -1,3 +1,3 @@
 #  others 
 
-learn git and git hub from 0 to hero
+learn git and git hub from for w b
